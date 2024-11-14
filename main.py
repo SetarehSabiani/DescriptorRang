@@ -1,4 +1,4 @@
-# Descriptor for rang of character
+# Descriptor for range of character
 class RangeCharacter:
     def __init__(self, min=2, max=10):
         self.max = max
